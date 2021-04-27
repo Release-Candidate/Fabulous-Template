@@ -9,7 +9,7 @@ If you want to know more about the Maya calendar systems, see [Links](#links).
 
 Information about the smartphone app is at [Usage of the Smartphone App](#usage-of-the-smartphone-app)
 
-To interactively try out the F# NuGet package Fabulous-TEMPLATE, go to the Jupyter Notebook at [![Binder badge](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Release-Candidate/Fabulous-TEMPLATE/main?filepath=Fabulous-TEMPLATE.ipynb)
+To interactively try out the F# NuGet package Fabulous-TEMPLATE, go to the Jupyter Notebook 
 
 Full documentation can be found at [Read the Docs](https://Fabulous-TEMPLATE.readthedocs.io/en/latest/)
 
