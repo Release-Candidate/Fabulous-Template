@@ -13,3 +13,4 @@ open System
 
 /// Module holding generic functions to use with all 3 Tzolk’in types.
 module Generics=
+    do ()

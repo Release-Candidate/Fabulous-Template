@@ -7,7 +7,7 @@
 //==============================================================================
 
 
-namespace TestFabulous-TEMPLATE
+namespace TestFabulousTEMPLATE
 
 open Expecto
 open Swensen.Unquote
@@ -15,7 +15,6 @@ open System
 open FsCheck
 open Expecto.Logging
 
-open RC.Maya
 
 [<AutoOpen>]
 module Generic=
@@ -47,3 +46,4 @@ module Generic=
     let configFasterThan = { FsCheckConfig.defaultConfig with
                                     maxTest = 100
                                     endSize = 1000000 }
+

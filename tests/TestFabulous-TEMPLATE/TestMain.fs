@@ -6,7 +6,7 @@
 //
 //==============================================================================
 
-namespace TestFabulous-TEMPLATE
+namespace TestFabulousTEMPLATE
 
 open Expecto
 
